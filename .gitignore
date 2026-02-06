@@ -47,7 +47,3 @@ instance/
 # Logs
 *.log
 logs/
-
-# Media
-known_faces/
-trainer.yml
