@@ -110,6 +110,17 @@ cp *.html /path/to/your/flask_app/app/templates/
 - Safari
 - Mobile browsers
 
+## Quick Access Links
+
+| Link | URL | Description |
+|------|-----|-------------|
+| 🏠 **Home** | http://127.0.0.1:5000/ | Welcome page with features |
+| 📸 **Live Monitor** | http://127.0.0.1:5000/monitor | Real-time face detection |
+| 👤 **Register Student** | http://127.0.0.1:5000/register | Register new students |
+| 📋 **Attendance Log** | http://127.0.0.1:5000/attendance | View attendance records |
+
+**Note**: Use `http://192.168.1.68:5000` to access from other devices on your network.
+
 ## Usage
 
 1. Start your Flask application
